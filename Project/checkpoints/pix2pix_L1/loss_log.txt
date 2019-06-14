@@ -1,0 +1,7 @@
+================ Training Loss (Tue Apr 30 11:50:39 2019) ================
+(epoch: 1, iters: 100, time: 12.765, data: 0.102) G_GAN: 1.806 G_L1: 38.237 D_real: 0.383 D_fake: 0.374 
+(epoch: 1, iters: 200, time: 3.333, data: 0.001) G_GAN: 1.643 G_L1: 29.191 D_real: 0.243 D_fake: 0.353 
+================ Training Loss (Tue Apr 30 18:09:11 2019) ================
+(epoch: 1, iters: 100, time: 3.128, data: 0.157) G_GAN: 2.207 G_L1: 56.190 D_real: 0.090 D_fake: 0.192 
+(epoch: 1, iters: 200, time: 3.189, data: 0.001) G_GAN: 2.967 G_L1: 38.339 D_real: 0.175 D_fake: 0.077 
+(epoch: 1, iters: 300, time: 3.285, data: 0.001) G_GAN: 1.474 G_L1: 24.374 D_real: 0.703 D_fake: 0.183 
